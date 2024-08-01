@@ -30,7 +30,7 @@ body{
 	list-style-type: none;
 	display: flex
 }
-.variant img, .variant ul img{
+.variant ul img{
 	width: 20px;
 	height: 20px;
 	object-fit: cover;
